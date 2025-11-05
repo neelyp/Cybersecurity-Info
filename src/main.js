@@ -43,6 +43,7 @@ const main = html`<div class="page-layout">
   ${ciaTriadTemplate()} ${passwords()} ${dataStates()}
   ${authenticationTemplate()} ${phishingTemplate()}
   ${socialEngineeringTemplate()} ${potentialThreatsTemplate()}
+  <p class="section-sources">styling assisted by codex</p>
 </div>`;
 
 const mountApp = () => {
