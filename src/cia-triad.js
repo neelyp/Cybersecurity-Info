@@ -1,5 +1,5 @@
 import { html, render } from "lit-html";
-import cia from "/cia-triad.png";
+import cia from "/ciatriad.png";
 import { ref } from "lit-html/directives/ref.js";
 
 const sections = {
