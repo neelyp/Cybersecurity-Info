@@ -462,7 +462,7 @@ var e=globalThis,t=e.trustedTypes,n=t?t.createPolicy(`lit-html`,{createHTML:e=>e
           </div>
         </article>
       </div>
-      <p class="section-sources">source: cyber.org</p>
+      <p class="section-sources">source: cyber.org | codex to help with password generator</p>
     </section>
   `),Qe=[{id:`cia-triad`,label:`CIA Triad`},{id:`passwords`,label:`Passwords`},{id:`data-states`,label:`Data States`},{id:`authentication`,label:`Authentication`},{id:`phishing`,label:`Phishing`},{id:`social-engineering`,label:`Social Engineering`},{id:`potential-threats`,label:`Threats`}],$e=e=>{let t=document.getElementById(e);t&&t.scrollIntoView({behavior:`smooth`,block:`start`})},et=_`<div class="page-layout">
   <nav class="top-nav" aria-label="Primary">

@@ -230,7 +230,7 @@ const passwords = () => {
           </div>
         </article>
       </div>
-      <p class="section-sources">source: cyber.org</p>
+      <p class="section-sources">source: cyber.org | codex to help with password generator</p>
     </section>
   `;
 };
